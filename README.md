@@ -8,7 +8,7 @@ I'm a Computer Science student and a passionate **Frontend Developer** from Indi
 * 🌱 **I’m currently learning:** Next.js, TypeScript, and advanced animation libraries.
 * 👯 **I’m looking to collaborate on:** Open-source frontend projects, hackathons, and innovative web applications.
 * 💬 **Ask me about:** React, JavaScript, UI/UX design principles, and frontend development best practices.
-* 📫 **How to reach me:** You can connect with me via [LinkedIn](www.linkedin.com/in/naitik-nigotiya) or email me at `nigotiyanaitik@gmail.com`.
+* 📫 **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/in/naitik-nigotiya/) or email me at `nigotiyanaitik@gmail.com`.
 * ⚡ **Fun fact:** I believe a great UI can make any technology feel like magic!
 
 ---
