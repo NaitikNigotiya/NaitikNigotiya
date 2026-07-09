@@ -1,143 +1,54 @@
-<h1 align="center">
-Hi 👋 I'm Naitik Nigotiya
-</h1>
+# Hi there, I'm Naitik Nigotiya 👋
 
-<h3 align="center">
-Software Engineer • Frontend Developer • UI/UX Designer
-</h3>
-
-<p align="center">
-Building modern web experiences, AI-powered products and polished user interfaces.
-</p>
+### 🚀 Frontend Developer | Visual Designer | Workflow Automation Specialist
+I build scalable web applications, engineer high-fidelity digital experiences, and design comprehensive brand identities for the competitive esports ecosystem. Currently pursuing Computer Science Engineering at Bennett University.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ The Tech Stack
 
-🎓 Computer Science Engineering student at Bennett University
-
-💻 Passionate about Frontend Engineering, UI/UX and AI-powered applications
-
-🚀 Building products with React, Firebase and modern web technologies
-
-🌱 Currently learning
-
-- Data Structures & Algorithms
-- System Design
-- AI Automation
-- Backend Development
-
-🎯 Goal
-
-Become a Software Engineer while building products that people genuinely enjoy using.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Core** | React 19, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap 5 |
+| **Backend & Cloud** | Firebase, Firestore, REST APIs |
+| **Tools & Build Systems** | Vite, Git, GitHub, PWA Architecture, Recharts |
+| **Automation** | n8n Workflow Automation |
+| **Design & Esports Identity** | Figma, Photoshop, Canva, Creative Direction |
+| **Other Languages** | Python (OpenCV / ML basics), Java (Swing / OOP) |
 
 ---
 
-## ⚒️ Tech Stack
+## 📱 Featured Engineering Projects
 
-### Languages
+### 🎬 [CineTrack](https://cinetrack-vert.vercel.app/)
+* **Description:** A premium, offline-first Progressive Web App (PWA) built for seamless movie and TV show tracking.
+* **Stack:** React 19, TypeScript, Firebase, Vite, TMDb API, Vercel.
 
-JavaScript • Java • HTML • CSS
-
-### Frontend
-
-React
-Tailwind CSS
-Vite
-
-### Backend & Database
-
-Firebase
-Firestore
-Authentication
-
-### Design
-
-Figma
-Photoshop
-Illustrator
-
-### Tools
-
-Git
-GitHub
-VS Code
-Postman
+### 📊 [ProxyLedger](https://proxy-ledger.vercel.app)
+* **Description:** A dedicated utility PWA designed for engineering students to dynamically track and visualize proxy attendance metrics.
+* **Stack:** React 19, TypeScript, Firebase, Recharts, Vite, Vercel.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Blueprint
 
-### 🎬 CineTrack
-
-A private Letterboxd-inspired movie tracking application.
-
-✨ Features
-
-- Firebase Authentication
-- Firestore Database
-- TMDB API
-- Offline Support
-- Progressive Web App
-
-🔗 Live Demo
-
-🔗 GitHub Repository
+* **Freelance Web Developer:** Pitching, designing, and launching custom responsive web platforms for local businesses via an optimized three-tier pricing and WhatsApp onboarding system.
+* **Content Writing Intern** @ InAmigos Foundation (IAF) — *Present*
+* **Social Media Executive** @ ARC Esports — *Feb 2026 – Jun 2026* (Led visual design assets, creative content scheduling, and community engagement strategies).
 
 ---
 
-### 🎮 NN Arcade
+## 📈 Academic & Hackathon Ledger
 
-A gaming platform built with modern frontend technologies.
-
----
-
-### 📅 Edufy
-
-Smart timetable scheduling platform created during Smart BU Hackathon.
+* **B.Tech Computer Science Engineering** @ Bennett University (First Year CGPA: **8.03 / 10.0**)
+* **Hackaccino 4.0 & Smart India Hackathon (SIH):** Focused on rapid prototyping, real-world machine learning solutions (SkySentry AI), and technical presentations.
+* **Certifications:** Electronic Circuits & Number Systems (*Infosys Springboard*).
 
 ---
 
-### ☕ Portfolio Website
+## 🤝 Let's Connect & Collaborate
 
-Personal portfolio showcasing projects, UI/UX work and development journey.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaitikNigotiya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaitikNigotiya&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NaitikNigotiya&theme=tokyonight"/>
-
-</p>
-
----
-
-## 💻 Tech I Use
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,java,html,css,tailwind,firebase,git,github,vscode,figma,photoshop"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- Portfolio: https://naitiknigotiya.xyz
-- LinkedIn: https://linkedin.com/in/naitik-nigotiya
-- Email: nigotiyanaitik@gmail.com
-
----
-
-> "Great products are built where engineering meets design."
+* 🌐 **Website:** [naitiknigotiya.xyz](https://www.naitiknigotiya.xyz/)
+* 💼 **LinkedIn:** [linkedin.com/in/naitik-nigotiya](https://www.linkedin.com/in/naitik-nigotiya)
+* 📸 **Design & Creative:** [@naitik_nigotiya](https://www.instagram.com/naitik_nigotiya)
+* 📧 **Email:** nigotiyanaitik@gmail.com
