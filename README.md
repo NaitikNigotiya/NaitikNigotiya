@@ -1,30 +1,143 @@
-# Hi there, I'm Naitik! 👋
+<h1 align="center">
+Hi 👋 I'm Naitik Nigotiya
+</h1>
 
-I'm a creative thinker and a passionate **designer and content creator** from India. I love bringing concepts to life, whether it's through dynamic video editing or clean, impactful graphic design. This passion for building and presenting ideas was sparked during my experience competing in hackathons, where I learned to quickly design and pitch solutions as part of a team.
+<h3 align="center">
+Software Engineer • Frontend Developer • UI/UX Designer
+</h3>
 
----
-
-* 🏆 **Hackathon Experience:** I was part of **Team Sankalp** at the Smart BU Hackathon. We designed and pitched "Edify," a timetable scheduling solution, where my primary role was crafting the visual presentation and the final pitch.
-
-* 🎨 **I’m currently building:** My design portfolio with a focus on video editing, presentation designing and social media graphics.
-
-* 🌱 **I’m currently learning:** Mastering **Adobe Premiere Pro** for professional video editing, and exploring motion graphics with **Canva**. I'm also diving deep into color theory and typography.
-
-* 🤝 **I’m looking to collaborate on:** Creative projects, social media campaigns, and design-focused roles in future hackathons.
-
-* 💬 **Ask me about:** My design process, video editing basics, creating engaging content with Canva, or brainstorming visual ideas!
-
-* 📫 **How to reach me:** Connect with me via **[LinkedIn](https://www.linkedin.com/in/naitik-nigotiya/)**.
-
-* ⚡ **Fun fact:** I believe the right visual can tell a story more powerfully than a thousand words!
+<p align="center">
+Building modern web experiences, AI-powered products and polished user interfaces.
+</p>
 
 ---
 
-### 🎨 My Creative Toolkit
+## 👨‍💻 About Me
 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+🎓 Computer Science Engineering student at Bennett University
+
+💻 Passionate about Frontend Engineering, UI/UX and AI-powered applications
+
+🚀 Building products with React, Firebase and modern web technologies
+
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- System Design
+- AI Automation
+- Backend Development
+
+🎯 Goal
+
+Become a Software Engineer while building products that people genuinely enjoy using.
 
 ---
+
+## ⚒️ Tech Stack
+
+### Languages
+
+JavaScript • Java • HTML • CSS
+
+### Frontend
+
+React
+Tailwind CSS
+Vite
+
+### Backend & Database
+
+Firebase
+Firestore
+Authentication
+
+### Design
+
+Figma
+Photoshop
+Illustrator
+
+### Tools
+
+Git
+GitHub
+VS Code
+Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 CineTrack
+
+A private Letterboxd-inspired movie tracking application.
+
+✨ Features
+
+- Firebase Authentication
+- Firestore Database
+- TMDB API
+- Offline Support
+- Progressive Web App
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+### 🎮 NN Arcade
+
+A gaming platform built with modern frontend technologies.
+
+---
+
+### 📅 Edufy
+
+Smart timetable scheduling platform created during Smart BU Hackathon.
+
+---
+
+### ☕ Portfolio Website
+
+Personal portfolio showcasing projects, UI/UX work and development journey.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaitikNigotiya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaitikNigotiya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NaitikNigotiya&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Tech I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,java,html,css,tailwind,firebase,git,github,vscode,figma,photoshop"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://naitiknigotiya.xyz
+- LinkedIn: https://linkedin.com/in/naitik-nigotiya
+- Email: nigotiyanaitik@gmail.com
+
+---
+
+> "Great products are built where engineering meets design."
